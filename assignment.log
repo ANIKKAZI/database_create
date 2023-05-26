@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-02T22:14:27.217000500Z</date>
+  <millis>1677795267217</millis>
+  <nanos>500</nanos>
+  <sequence>0</sequence>
+  <logger>createlog</logger>
+  <level>INFO</level>
+  <class>logging.LoggingInfo</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>RohanRegistration succesfull</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-02T22:38:08.063711100Z</date>
+  <millis>1677796688063</millis>
+  <nanos>711100</nanos>
+  <sequence>0</sequence>
+  <logger>createlog</logger>
+  <level>INFO</level>
+  <class>logging.LoggingInfo</class>
+  <method>logInfo</method>
+  <thread>1</thread>
+  <message>Anikethlogin succesful</message>
+</record>
